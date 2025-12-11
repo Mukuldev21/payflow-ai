@@ -22,6 +22,5 @@ Intelligent Payments Microservices Test Framework
    npx playwright test
    ```
 
-## Notes
-- This is a starter template meant to be extended. AI generator is local (no cloud calls).
-- Replace mokapi with your real mock server or integrate with mokapi.io.
+## Author
+Mukul Dev Mahato
