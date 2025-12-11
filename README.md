@@ -1,5 +1,5 @@
-# PayFlow-AI (Starter)
-Intelligent Payments Microservices Test Framework — starter repo.
+# PayFlow-AI 
+Intelligent Payments Microservices Test Framework 
 
 ## What's included
 - `ai-engine/paymentDataGenerator.js` : Node script that generates realistic payment test data (no external APIs).
