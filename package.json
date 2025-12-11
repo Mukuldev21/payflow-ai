@@ -1,0 +1,20 @@
+{
+  "name": "payflow-ai",
+  "version": "1.0.0",
+  "description": "Intelligent Payments Microservices Test Framework — starter repo.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "typescript": "^5.9.3"
+  }
+}
