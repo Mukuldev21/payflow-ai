@@ -8,7 +8,6 @@ Intelligent Payments Microservices Test Framework
 - `tests/playwright/` : Playwright (TypeScript) test examples (UI + API).
 - `playwright.config.ts` : Playwright config.
 - `docker-compose.yml` : Compose stub wiring services together.
-- `LICENSE` : MIT
 
 ## How to use (local)
 1. Node >=16, npm/yarn, and Playwright installed.

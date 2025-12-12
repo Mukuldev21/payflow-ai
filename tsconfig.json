@@ -6,13 +6,13 @@
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "types": [
-            "playwright",
-            "node"
-        ]
+        "jsx": "react-jsx",
+        "allowJs": true,
+        "noEmit": true
     },
     "include": [
         "tests",
-        "playwright.config.ts"
+        "playwright.config.ts",
+        "src"
     ]
 }
